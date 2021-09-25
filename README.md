@@ -72,6 +72,7 @@ Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.
 - [x] Avvio Windows da OpenCore
 - [ ] NVIDIA® GeForce® 920MX
 - [ ] Lettore Scheda SD (potrebbe funzionare)
+- [ ] WiFi + Bluetooth (si può sostituire la scheda con una compatibile)
 
 # Sezione Info SSDT ASUS Vivobook R541U
 
