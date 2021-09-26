@@ -36,12 +36,12 @@ Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.
 
 # Impostazioni Bios
 
-![infodp1](./Screenshot/1.jpeg)
-![infodp2](./Screenshot/2.jpeg)
-![infodp3](./Screenshot/3.jpeg)
-![infodp4](./Screenshot/4.jpeg)
-![infodp5](./Screenshot/5.jpeg)
-![infodp6](./Screenshot/6.jpeg)
+![infodp1](./Screenshot/1.jpg)
+![infodp2](./Screenshot/2.jpg)
+![infodp3](./Screenshot/3.jpg)
+![infodp4](./Screenshot/4.jpg)
+![infodp5](./Screenshot/5.jpg)
+![infodp6](./Screenshot/6.jpg)
 
 # Dispositivo Screenshot
 ![infodp1](./Screenshot/SysInfo.png)
