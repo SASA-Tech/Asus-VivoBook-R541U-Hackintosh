@@ -50,6 +50,7 @@ Prima di settarlo, caricare le impostazioni di default
 
 # Nota BIOS
 Se nel vostro BIOS trovate l'opzione VT-d dovete disattivarla e togliere la spunta DisableIoMapper in Kernel, nel config.plist
+
 Ho aggiunto gia 2 tool:
 - ControlMsrE2
 - modGRUBShell
