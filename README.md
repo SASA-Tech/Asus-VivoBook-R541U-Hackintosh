@@ -11,7 +11,7 @@
 
 | Componenti       | Modello                               |
 | ---------------- | --------------------------------------|
-| Notebook         | ASUS Vivobook R541U                   |
+| Notebook         | ASUS Vivobook R541U (BIOS 310)        |
 | CPU              | Intel Core i3 6600U                   | 
 | iGPU             | Intel® HD Graphics 520                |
 | Audio            | Realtek ALC256                        |
@@ -21,7 +21,9 @@
 | SMBIOS           | MacBookPro13,1                        |
 | Bootloader       | OpenCore 0.7.3                        |
 
-![infodp1](./Screenshot/Mobo.png)
+![infodp1](./Screenshot/PC.jpeg)
+![infodp2](./Screenshot/PC2.jpeg)
+![infodp3](./Screenshot/PC3.jpeg)
 
 ## NOTE:
 Vi lascio la EFI con SSDT, non avrebbe senso lasciarvi quella con DSDT patchato perché non funzionerebbe sul vostro PC.
@@ -36,31 +38,17 @@ Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.
 
 # Impostazioni Bios
 
-## Disabilita:
+![infodp1](./Screenshot/1.jpeg)
+![infodp2](./Screenshot/2.jpeg)
+![infodp3](./Screenshot/3.jpeg)
+![infodp4](./Screenshot/4.jpeg)
+![infodp5](./Screenshot/5.jpeg)
+![infodp6](./Screenshot/6.jpeg)
 
-- Fast Boot
-- VT-d
-- CSM
-- Intel SGX
-- Intel Platform Trust
-- CFG Lock (MSR 0xE2 write protection)
-
-## Abilita:
-
-- Intel Virtualizzation Technology
-- Above 4G decoding
-- Hyper-Threading
-- Execute Disable Bit
-- EHCI/XHCI Hand-off
-- OS type: (Windows 10 Feautres: Windows 8/10 WHQL oppure Other)
-- DVMT Pre-Allocated(iGPU Memory): 64 MB
-- DVMT Total Gfx Mem → MAX
-
-## Impostazioni generiche, potresti non trovarne alcune.
-  
 # Dispositivo Screenshot
-![infodp1](./Screenshot/Peripherials.png)
-![infodp2](./Screenshot/PCIe.png)
+![infodp1](./Screenshot/SysInfo.png)
+![infodp2](./Screenshot/SysInfo2.png)
+![infodp3](./Screenshot/SysInfo3.png)
 
 # Cosa funziona e cosa no:
 - [x] Intel® HD Graphics 520 iGPU
