@@ -36,7 +36,7 @@ Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.
 
 # Impostazioni BIOS 310
 
-Prima di settarlo, portarlo alle impostazioni di default
+Prima di settarlo, caricare le impostazioni di default
 
 ## Abilita:
 - Intel Virtualizzation Technology
