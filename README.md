@@ -21,7 +21,7 @@
 | SMBIOS           | MacBookPro13,1                        |
 | Bootloader       | OpenCore 0.7.3                        |
 
-![infodp2](./Screenshot/PC2.jpeg)
+![infodp2](./Screenshot/PC.jpeg)
 
 ## NOTE:
 Vi lascio la EFI con SSDT, non avrebbe senso lasciarvi quella con DSDT patchato perché non funzionerebbe sul vostro PC.
