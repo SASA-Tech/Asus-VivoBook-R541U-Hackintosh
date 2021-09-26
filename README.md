@@ -16,7 +16,7 @@
 | iGPU             | Intel® HD Graphics 520                |
 | Audio            | Realtek ALC256                        |
 | LAN              | Realtek RTL810xE                      |
-| RAM              | 8 GB DDR4 2133 Mhz (indicati da macOS |
+| RAM              | 8 GB DDR4 2133 Mhz (indicati da macOS)|
 | SSD              | Samsung 860 Evo 500gb                 |
 | SMBIOS           | MacBookPro13,1                        |
 | Bootloader       | OpenCore 0.7.3                        |
