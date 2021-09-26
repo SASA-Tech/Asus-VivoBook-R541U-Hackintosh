@@ -53,6 +53,7 @@ Se nel vostro BIOS trovate l'opzione VT-d dovete disattivarla e togliere la spun
 Ho aggiunto gia 2 tool:
 - ControlMsrE2
 - modGRUBShell
+
 Il primo verifica lo stato di CFG Lock, il secondo potrebbe rivelarsi utili per sbloccare CFG Lock e altri paramentri non visibili nell'interfaccia BIOS.
 
 # Dispositivo Screenshot
