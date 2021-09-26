@@ -34,14 +34,19 @@ Vi lascio il config.plist rinominato in configbeta7.plist pronto da utilizzare S
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
 È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
 
-# Impostazioni Bios
+# Impostazioni BIOS 310
 
-![infodp1](./Screenshot/1.jpg)
-![infodp2](./Screenshot/2.jpg)
-![infodp3](./Screenshot/3.jpg)
-![infodp4](./Screenshot/4.jpg)
-![infodp5](./Screenshot/5.jpg)
-![infodp6](./Screenshot/6.jpg)
+Prima di settarlo, portarlo alle impostazioni di default
+
+## Abilita:
+- Intel Virtualizzation Technology
+- DVMT Pre Allocated --> 64MB
+
+## Disabilita:
+- VT-d
+- Fast Boot
+- CSM Support
+- Secure Boot Control
 
 # Dispositivo Screenshot
 ![infodp1](./Screenshot/SysInfo.png)
