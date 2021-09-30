@@ -67,7 +67,7 @@ Il primo verifica lo stato di CFG Lock, il secondo potrebbe rivelarsi utile per 
 - [x] Intel® HD Graphics 520 iGPU
 - [x] Realtek ALC256 uscite interne
 - [x] Realtek ALC256 HDMI Audio Output
-- [x] Porte USB (Funzionano ma richiedono mappatura)
+- [x] Porte USB
 - [x] Realtek RTL810xE
 - [x] NVRAM
 - [x] Avvio Windows da OpenCore
