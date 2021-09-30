@@ -13,7 +13,7 @@
 | Componenti       | Modello                               |
 | ---------------- | --------------------------------------|
 | Notebook         | ASUS Vivobook R541U (BIOS 310)        |
-| CPU              | Intel Core i3 6600U                   | 
+| CPU              | Intel Core i3 6006U                   | 
 | iGPU             | Intel® HD Graphics 520                |
 | Audio            | Realtek ALC256                        |
 | LAN              | Realtek RTL810xE                      |
@@ -30,8 +30,8 @@ Pertanto l'unica cosa che non funzionerà sarà la combo dei tasti FN (FN+F1, FN
 In post installazione scrivete nel gruppo HackintoshLife che vi lascio in fondo la pagina per estrarre e patchare il vostro DSDT.
 Kexts aggiornati alle ultime versioni.
 
-## Se volete installare la Beta 7 di macOS Monterey:
-Vi lascio il config.plist rinominato in configbeta7.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
+## Se volete installare la Beta 8 di macOS Monterey:
+Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
 È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
 
