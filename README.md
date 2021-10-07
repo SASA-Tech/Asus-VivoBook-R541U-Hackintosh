@@ -20,7 +20,7 @@
 | RAM              | 8 GB DDR4 2133 Mhz (indicati da macOS)|
 | SSD              | Samsung 860 Evo 500gb                 |
 | SMBIOS           | MacBookPro13,1                        |
-| Bootloader       | OpenCore 0.7.3                        |
+| Bootloader       | OpenCore 0.7.4                        |
 
 ![infodp2](./Screenshot/PC.jpeg)
 
@@ -31,9 +31,12 @@ In post installazione scrivete nel gruppo HackintoshLife che vi lascio in fondo 
 Kexts aggiornati alle ultime versioni.
 
 ## Se volete installare la Beta 8 di macOS Monterey:
-Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
+~~Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
 Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
-È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist
+È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist, in alternativa usate il kexts RestrictEvents.~~
+
+Con OpenCore 0.7.4 è stato fixato questo problema dell'aggiornamento.
+Adesso potete aggiornare senza RestrictEvents.kexts e senza cambiare config.plist
 
 # Impostazioni BIOS 310
 
