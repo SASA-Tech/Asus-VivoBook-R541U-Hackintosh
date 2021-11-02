@@ -31,14 +31,6 @@ Pertanto l'unica cosa che non funzionerà sarà la combo dei tasti FN (FN+F1, FN
 In post installazione scrivete nel gruppo HackintoshLife che vi lascio in fondo la pagina per estrarre e patchare il vostro DSDT.
 Kexts aggiornati alle ultime versioni.
 
-## Se volete installare la Beta 8 di macOS Monterey:
-~~Vi lascio il config.plist rinominato in configbeta8.plist pronto da utilizzare SOLO per scaricare ed installare l'aggiornamento.
-Al termine dell'aggiornamento dovete cancellarlo e rimettere l'originale config.plist.
-È consigliabile scollegare l'Hackintosh dall'ID Apple prima di sostituire momentaneamente il config.plist, in alternativa usate il kexts RestrictEvents.~~
-
-Con OpenCore 0.7.4 è stato fixato questo problema dell'aggiornamento.
-Adesso potete aggiornare senza RestrictEvents.kexts e senza cambiare config.plist
-
 # Impostazioni BIOS 310
 
 Prima di settarlo, caricare le impostazioni di default
@@ -56,7 +48,7 @@ Prima di settarlo, caricare le impostazioni di default
 # Nota BIOS
 Se nel vostro BIOS trovate l'opzione VT-d dovete disattivarla e togliere la spunta DisableIoMapper in Kernel, nel config.plist
 
-Ho aggiunto gia 2 tool:
+Ho aggiunto 2 tool:
 - ControlMsrE2
 - modGRUBShell
 
@@ -73,7 +65,7 @@ Il primo verifica lo stato di CFG Lock, il secondo potrebbe rivelarsi utile per 
 - [x] Realtek ALC256 HDMI Audio Output
 - [x] Porte USB
 - [x] Realtek RTL810xE
-- [x] NVRAM
+- [x] NVRAM (Nativa)
 - [x] Avvio Windows da OpenCore
 - [ ] NVIDIA® GeForce® 920MX
 - [ ] Lettore Scheda SD (potrebbe funzionare)
